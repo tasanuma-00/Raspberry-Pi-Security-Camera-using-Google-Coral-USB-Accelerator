@@ -2,6 +2,8 @@
 Taiga Asanuma
 7-19-2019
 Version 1.0
+https://github.com/tasanuma714/Raspberry-Pi-Security-Camera-using-Google-Coral-USB-Accelerator
+
 ***Big Credit to Adrian at PyImageSearch for the base code on detectVideoMod.py
     python file.
         https://www.pyimagesearch.com/2019/04/22/getting-started-with-google-corals-tpu-usb-accelerator/
