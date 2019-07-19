@@ -9,6 +9,7 @@ when a pre-set object from the coco_labels.txt is detected and logging
 the objects detected every second to a text file. Both the video and 
 text file will be uploaded to Google Drive. 
 	
+	
 Project Dependencies:
 
 	~/python-tflite-source/edgetpu/demo
