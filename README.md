@@ -12,7 +12,7 @@ text file will be uploaded to Google Drive.
 # Website
 https://bluestampengineering.com/student-projects/taiga-a/
 	
-Project Dependencies:
+# Project Dependencies:
 
 	~/python-tflite-source/edgetpu/demo
 		caller.py
