@@ -9,10 +9,10 @@ when a pre-set object from the coco_labels.txt is detected and logging
 the objects detected every second to a text file. Both the video and 
 text file will be uploaded to Google Drive. 
 	
-# Website
+## Website
 https://bluestampengineering.com/student-projects/taiga-a/
 	
-# Project Dependencies:
+## Project Dependencies:
 
 	~/python-tflite-source/edgetpu/demo
 		caller.py
