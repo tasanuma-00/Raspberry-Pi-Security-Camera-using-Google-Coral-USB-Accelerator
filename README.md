@@ -15,6 +15,7 @@ Project Dependencies:
 		detectVideoMod.py
 		record.py
 		log.py
+		
 	~/edgetpu_models/
 		mobilenet_ssd_v2_coco_quant_postprocess_edgetpu.tflite
 		coco_labels.txt
