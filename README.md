@@ -1,8 +1,8 @@
 # Raspberry-Pi-Security-Camera-using-Google-Coral-USB-Accelerator
 
 In this project, I perform object detection on the
-Raspberry Pi using the Google Coral USB Accelerator. A mobilenet_ssd
-_v2_coco_quant_postproces_edgetpu.tflite tensorflow lite model from
+Raspberry Pi using the Google Coral USB Accelerator. A *mobilenet_ssd
+_v2_coco_quant_postproces_edgetpu.tflite* tensorflow lite model from
 Google is used in my project. This project is modified as a security
 camera, filming a 15-second video and sending a text message via Pushetta
 when a pre-set object from the coco_labels.txt is detected and logging
