@@ -10,6 +10,7 @@ the objects detected every second to a text file. Both the video and
 text file will be uploaded to Google Drive. 
 	
 Project Dependencies:
+
 	~/python-tflite-source/edgetpu/demo
 		caller.py
 		detectVideoMod.py
